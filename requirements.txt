@@ -82,7 +82,7 @@ opt_einsum==3.4.0
 optree==0.13.1
 ortoolpy==0.3.0
 packaging==24.1
-pandas==2.2.3
+pandas>=2.0.0
 pandas-datareader==0.10.0
 parso==0.8.4
 pathspec==0.10.1
