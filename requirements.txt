@@ -137,7 +137,7 @@ tenacity==9.0.0
 tensorboard==2.18.0
 tensorboard-data-server==0.7.2
 tensorflow==2.18.0
-tensorflow-datasets==4.9.7
+tensorflow-datasets==4.9.3
 tensorflow-metadata==1.16.1
 tensorflow_intel==2.18.0
 termcolor==2.5.0
